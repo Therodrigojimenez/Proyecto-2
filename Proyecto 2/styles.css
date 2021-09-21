@@ -1,0 +1,104 @@
+@charset "UTF-8";
+
+.iconos-header{
+    width: 50px;
+}
+
+.areaPrincipal { 
+    background-color: rgb(91, 233, 233, .5);
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    width: 800px;
+    height: 140px;
+    padding: 10px 0;
+}
+.Concepto-1{  
+    background-color: rgb(154, 199, 250);
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    width: 1200px;
+    height: 470px;
+}
+
+.subtemas-00{
+    width:550px;
+    height: 350px;
+    padding: 10px 0;
+}
+.tiposyelementos{
+    background-color: rgb(156, 169, 224);
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    width: 800px;
+    height: 100px;
+    padding: 10px 0;
+}
+.elementos001{  
+    background-color: rgba(221, 221, 221, 0.6);
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    width: 1200px;
+    height: 510px;
+}
+.tipos001{  
+    background-color: rgba(233, 233, 233, 0.7);
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    width: 1200px;
+    height: 560px;
+}
+.des-vent{ 
+    background-color: rgb(91, 233, 233, .5);
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    width: 800px;
+    height: 175px;
+    padding: 10px 0;
+}
+.cuadro-des-ven-a{ 
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    width: 400px;
+    height: 340px;
+    padding: 20px 0;
+}
+.cuadro-des-ven-b{ 
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    width: 400px;
+    height: 340px;
+    padding: 20px 0;
+}
+.usosyeficacia{
+    background-color: rgb(23, 66, 255, 0.7);
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    width: 800px;
+    height: 100px;
+    padding: 10px 0;
+}
+.usos001{  
+    background-color: rgba(221, 221, 221, 0.6);
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    width: 1200px;
+    height: 920px;
+}
+.eficacia001{  
+    background-color: rgba(157, 98, 235, 0.6);
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    width: 1200px;
+    height: 830px;
+}
